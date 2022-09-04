@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\bin\Debug\net6.0\Store_.exe
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\bin\Debug\net6.0\Store_.deps.json
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\bin\Debug\net6.0\Store_.runtimeconfig.json
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\bin\Debug\net6.0\Store_.dll
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\bin\Debug\net6.0\Store_.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.AssemblyInfo.cs
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.dll
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\refint\Store_.dll
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\Store_.genruntimeconfig.cache
+C:\Users\User\Desktop\Self-education\Beetroot\Store_\Store_\obj\Debug\net6.0\ref\Store_.dll
